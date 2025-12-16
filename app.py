@@ -15,7 +15,7 @@ from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_community.vectorstores import Chroma
 from langchain_google_genai import ChatGoogleGenerativeAI
 # CONFIG
-os.environ["GOOGLE_API_KEY"] = "AIzaSyCx8-uLdL2lQBCTd-bBfOXcNoGjZy1lsm0"
+os.environ["GOOGLE_API_KEY"] = "Enter Your Key"
 # LLM
 llm = ChatGoogleGenerativeAI(
     model="gemini-2.5-flash",
@@ -106,3 +106,4 @@ Respond clearly in bullet points.
 
     st.subheader("📊 Resume Match Analysis")
     st.markdown(response.content)
+
