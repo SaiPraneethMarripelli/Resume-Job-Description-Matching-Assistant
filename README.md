@@ -37,7 +37,6 @@ This application uses RAG and LLMs to ground the analysis on actual resume conte
 
 ## 📂 Project Structure
 
-resume_jd_rag/
 ├── app.py
 ├── README.md
 └── data/
