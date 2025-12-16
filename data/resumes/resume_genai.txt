@@ -1,0 +1,21 @@
+Name: Sai Praneeth Marripelli
+
+Education:
+Master of Computer Applications (MCA)
+
+Skills:
+Python, Machine Learning, Deep Learning, Natural Language Processing,
+Generative AI, Retrieval-Augmented Generation (RAG), LangChain,
+Vector Databases (Chroma, FAISS), HuggingFace Transformers,
+Streamlit, Pandas, NumPy
+
+Projects:
+Built a RAG-based internal operations assistant using LangChain and Gemini LLM.
+Developed a YOLOv8-based real-time object detection application.
+Implemented sentiment analysis using BERT, LSTM, and GRU models.
+
+Experience:
+Fresher with hands-on academic and personal projects.
+
+Tools:
+Python, GitHub, Google Colab, VS Code

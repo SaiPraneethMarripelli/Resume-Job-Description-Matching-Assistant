@@ -1,0 +1,16 @@
+Job Title: Generative AI Engineer
+
+Required Skills:
+Python programming
+Machine Learning and Deep Learning fundamentals
+Experience with Large Language Models (LLMs)
+Knowledge of Retrieval-Augmented Generation (RAG)
+LangChain framework experience
+Vector databases and embeddings
+NLP concepts and transformers
+
+Responsibilities:
+Develop LLM-powered applications
+Build RAG pipelines for document-based question answering
+Optimize prompts and retrieval strategies
+Collaborate with ML and product teams

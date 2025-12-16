@@ -1,0 +1,16 @@
+Name: Rahul Sharma
+
+Education:
+B.Tech in Computer Science
+
+Skills:
+Python, Machine Learning, Supervised Learning, Regression,
+Classification, Random Forest, Logistic Regression,
+Data Analysis, Pandas, NumPy, Scikit-learn
+
+Projects:
+Project budget prediction using Random Forest.
+Student depression classification using Logistic Regression.
+
+Experience:
+Internship experience in data analysis and model building.

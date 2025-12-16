@@ -1,0 +1,16 @@
+Name: Ananya Verma
+
+Education:
+B.Sc in Computer Science
+
+Skills:
+Python, SQL, Excel, Power BI,
+Data Cleaning, Data Visualization,
+Exploratory Data Analysis
+
+Projects:
+Sales data analysis dashboard using Power BI.
+Customer churn analysis using Python.
+
+Experience:
+Junior Data Analyst Intern.
